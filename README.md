@@ -1,6 +1,6 @@
 # Hi, I'm pajemo
 
-PHP/MySQL developer building practical web applications for administration, student services, and secure data workflows.
+PHP/Laravel/MySQL developer building practical web applications for administration, student services, and secure data workflows.
 
 ## About Me
 
